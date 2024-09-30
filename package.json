@@ -1,5 +1,5 @@
 {
-  "name": "mern-chat-app-master",
+  "name": "MERN Realtime chat app",
   "version": "1.0.0",
   "description": "> A Realtime Chat Application",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "start": "nodemon backend/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Harshdeep Khartade",
   "license": "ISC",
   "keywords": [],
   "dependencies": {
